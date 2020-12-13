@@ -1,0 +1,20 @@
+{
+  "name": "LectureNotes-Week4-SW106",
+  "version": "1.0.0",
+  "description": "Video copy code for sw106 class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eniserdol/Lecturenotes-week4-sw106.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eniserdol/Lecturenotes-week4-sw106/issues"
+  },
+  "homepage": "https://github.com/Eniserdol/Lecturenotes-week4-sw106#readme"
+}
