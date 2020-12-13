@@ -35,7 +35,6 @@ const armagan = new Person("armagan",36)
 const photo  = new Photo("berlin.jpg")
 
 steve.addPhoto(photo)
-armagan.likePhoto(photo)
 mihri .likePhoto(photo)
 //console.log(steve,steve.photos[0].likedBy)
 
